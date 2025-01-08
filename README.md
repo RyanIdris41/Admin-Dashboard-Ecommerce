@@ -106,4 +106,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Ryan Idris
 - GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/ryan-idris-aa7a76344/)
+- LinkedIn: [Ryan Idris](https://www.linkedin.com/in/ryan-idris-aa7a76344/)
