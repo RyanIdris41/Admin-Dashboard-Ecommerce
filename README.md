@@ -105,5 +105,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 Ryan Idris
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [RyanIdris41](https://github.com/RyanIdris41)
 - LinkedIn: [Ryan Idris](https://www.linkedin.com/in/ryan-idris-aa7a76344/)
