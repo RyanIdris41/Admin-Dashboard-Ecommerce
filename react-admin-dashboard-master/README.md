@@ -33,7 +33,7 @@ A modern, responsive admin dashboard built with React, featuring real-time analy
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/react-admin-dashboard.git
+git clone https://github.com/RyanIdris41/admin-dashboard-ecommerce.git
 ```
 
 2. Install dependencies:
