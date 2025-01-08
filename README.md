@@ -31,7 +31,7 @@ https://github.com/user-attachments/assets/bb03a28a-9a51-4bbc-b10d-973cd06b2b3c
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/RyanIdris41/admin-dashboard-ecommerce.git
+git clone https://github.com/RyanIdris41/Admin-Dashboard-Ecommerce.git
 ```
 
 2. Install dependencies:
