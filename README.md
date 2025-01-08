@@ -2,9 +2,7 @@
 
 A modern, responsive admin dashboard built with React, featuring real-time analytics, user management, and sales tracking capabilities.
 
-![Demo App](/public/screenshot-for-readme-1.png)
-![Demo App](/public/screenshot-for-readme-2.png)
-![Demo App](/public/screenshot-for-readme-3.png)
+(https://github.com/user-attachments/assets/b177880c-abc3-4842-ace1-a491d4fa347d)
 
 ## 🌟 Features
 
